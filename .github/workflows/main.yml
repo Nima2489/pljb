@@ -28,8 +28,3 @@ jobs:
         with:
           name: GangJobPlugin
           path: target/*.jar
-
-        with:
-          name: GangJobPlugin
-          path: target/*.jar
-
